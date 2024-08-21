@@ -1,6 +1,3 @@
-Here's a revised README tailored to the PlayFi project, with a mention of Merlin for the track:
-
----
 
 # PlayFi
 
@@ -58,7 +55,3 @@ This project was developed for the Merlin Chain Prize track, emphasizing innovat
 
 ![Test Results](test-ido.png)
 ![Test Nft](test-nft.png)
-
----
-
-This README now reflects your PlayFi project with the necessary adjustments for the Merlin track.
